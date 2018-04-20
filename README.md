@@ -19,6 +19,6 @@ Live demo:
 - Method Override
 - Connect - Flash
 - Handlebars
-- Bootstrap
+- Materialize
 - mLab
 - Heroku
