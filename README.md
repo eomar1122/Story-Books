@@ -2,7 +2,7 @@
 
 Full stack web application to share public or write private stories.
 
-Live demo: 
+Live demo: <a href="https://pacific-wave-46566.herokuapp.com/" target="_blank">
 
 
 
@@ -17,8 +17,8 @@ Live demo:
 - Cookie Parser
 - Express Session
 - Method Override
-- Connect - Flash
 - Handlebars
 - Materialize
+- CKEditor
 - mLab
 - Heroku
