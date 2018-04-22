@@ -17,6 +17,7 @@ Live demo: <a href="https://pacific-wave-46566.herokuapp.com/" target="_blank">
 - Cookie Parser
 - Express Session
 - Method Override
+- Moment
 - Handlebars
 - Materialize
 - CKEditor
