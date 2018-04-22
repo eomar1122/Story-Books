@@ -2,7 +2,7 @@
 
 Full stack web application to share public or write private stories.
 
-Live demo: <a href="https://pacific-wave-46566.herokuapp.com/" target="_blank">
+Live demo: <a href="https://pacific-wave-46566.herokuapp.com/" target="_blank"> Click Here</a>
 
 
 
