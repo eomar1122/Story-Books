@@ -20,6 +20,7 @@ Live demo: <a href="https://pacific-wave-46566.herokuapp.com/" target="_blank">
 - Moment
 - Handlebars
 - Materialize
+- CSS
 - CKEditor
 - mLab
 - Heroku
